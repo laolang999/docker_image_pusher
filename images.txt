@@ -1,3 +1,1 @@
-emby
-ailg/ggbond:latest
-ailg/alist:latest
+ddsderek/xiaoya-emd
