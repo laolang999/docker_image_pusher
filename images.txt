@@ -1,2 +1,2 @@
 OpenCore
-OpenCore-1.0.1-DEBUG.zip
+1.0.1-RELEASE
